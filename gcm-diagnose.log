@@ -1,0 +1,193 @@
+﻿Diagnose log at 2024-08-26T16:17:02Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22631)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Mrben
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=BENJAMIN-INSP14
+GIT_TRACE2_PARENT_SID=0748e4ce-fea4-4bbc-8726-6ab97b90fbc4
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Mrben\OneDrive - Heriot-Watt University
+WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+SESSIONNAME=Console
+TMP=C:\Users\Mrben\AppData\Local\Temp
+PROCESSOR_REVISION=9a03
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\Mrben\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Mrben\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COLORTERM=truecolor
+USERDOMAIN=BENJAMIN-INSP14
+ProgramFiles(x86)=C:\Program Files (x86)
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Mrben\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git LFS;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Users\Mrben\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Mrben\AppData\Local\Programs\Python\Python312\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Mrben\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Mrben\AppData\Local\Programs\Python\Python310\;C:\Users\Mrben\AppData\Local\Microsoft\WindowsApps;C:\Users\Mrben\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\ffmpeg\bin;C:\Program Files\Graphviz\bin;C:\Users\Mrben\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2024.1.4\bin;
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\Mrben\AppData\Local\Temp
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=20
+GIT_LFS_PATH=C:\Program Files\Git LFS
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+WT_SESSION=3e1a89f2-e55f-465c-8d05-b964466537bc
+WSLENV=WT_SESSION:WT_PROFILE_ID:
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANwUnNLL8gk213Etlnt2v7QQAAAACAAAAAAAQZgAAAAEAACAAAAB7yOqMr5Z8Va1ZO6d4Ojy0NS4ithkNc8iO/TJ6ypSpBwAAAAAOgAAAAAIAACAAAADTqAN00szWEuPrWRdR2xy7icdvZ3I4ULdQFRg9/HiVvWAAAACqhJp21raoVX4l2bMjRCWTyVdmHHqEsu2qqww5ND7j/T1AB4A3PcR4kp1DCeHyM319azGkSuZ9GpORTL7nrBmv+X7NerdL70EfcksfBwEKb8uJhQrjrWo+htGuFyUr5WlAAAAAdOSOuLryube54xu35G6S9XNoNVeNf0bNwdfhClahrJ+BdofuudJ2QoNrmLhubU1sSI0WSiKTIcRlWooNiAZPkA==
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ProgramFiles=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+HOME=C:\Users\Mrben
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\BENJAMIN-INSP14
+USERPROFILE=C:\Users\Mrben
+SystemRoot=C:\WINDOWS
+VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+USERDOMAIN_ROAMINGPROFILE=BENJAMIN-INSP14
+APPDATA=C:\Users\Mrben\AppData\Roaming
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\Mrben\OneDrive - Heriot-Watt University
+USERNAME=Mrben
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+PhpStorm=C:\Program Files\JetBrains\PhpStorm 2024.1.4\bin;
+SystemDrive=C:
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\Mrben\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Mrben\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Mrben\AppData\Local\Temp\a2d74841bd383a58f1299cda'... OK
+Reading from temporary file 'C:\Users\Mrben\AppData\Local\Temp\a2d74841bd383a58f1299cda'... OK
+Deleting temporary file 'C:\Users\Mrben\AppData\Local\Temp\a2d74841bd383a58f1299cda'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Mrben
+UserDataDirectoryPath: C:\Users\Mrben\.gcm
+GetCurrentDirectory(): C:\Users\Mrben\Documents\Benjamin\PersonalProjects\programming\DjangoTutorial
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:49203/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/Mrben/Documents/Benjamin/PersonalProjects/programming/DjangoTutorial/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	core.editor=nano.exe
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Mrben/.gitconfig	user.email=mrbenjamin.d.gardner@gmail.com
+file:C:/Users/Mrben/.gitconfig	user.name=bimajnen
+file:C:/Users/Mrben/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Mrben/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Mrben/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Mrben/.gitconfig	filter.lfs.required=true
+file:C:/Users/Mrben/.gitconfig	gui.recentrepo=C:/Users/Mrben/OneDrive - Heriot-Watt University/Year 4/summer project/GraphRandomWalks
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Bimajnen/DjangoBlogTest.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	gui.wmstate=zoomed
+file:.git/config	gui.geometry=1322x693+100+634 254 315
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Mrben\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Mrben\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
