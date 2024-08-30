@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Benjamin's Test Blog</title>
-</head>
-<body>
-<header>
-    <h1><a href="/">Benjamin's Test Blog</a></h1>
-</header>
+{% extends 'blog/base.html' %}
 
-{% for post in posts %}
-    <article>
-        <time>Published: {{ post.published_date }}</time>
-        <h2><a href="">{{ post.title }}</a></h2>
-        <p> {{post.text | linebreaksbr }}</p>
-    </article> <br>
-{% endfor %}
-
-
-</body>
-</html>
+{% block content %}
+    {% for post in posts %}
+        <article class="post">
+            <time class="date">
+                {{ post.published_date }}
+            </time>
+            <h2><a href="">{{ post.title }}</a></h2>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </article>
+    {% endfor %}
+{% endblock %}
